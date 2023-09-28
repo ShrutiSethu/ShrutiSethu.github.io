@@ -5,4 +5,9 @@ html.body{
 
 body{
     padding:2rem 5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+td{
+    text-align: center;
 }
