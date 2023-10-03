@@ -8,5 +8,5 @@ body{
 }
 
 td,th{
-    text-align: center;
+    text-align: center !important;
 }
